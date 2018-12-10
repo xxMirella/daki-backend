@@ -1,0 +1,29 @@
+{
+  "login-valido": {
+    "email": "string",
+    "password": "string"
+  },
+  "login-inválido": {
+    "email": "Joaovitor",
+    "password": "Joaovitor"
+  },
+  "success-login": {
+    "user": [
+      {
+        "favPostsID": [
+          "5be8d3afd7c77c4d4022f486"
+        ],
+        "_id": "5be91ae819ce4258700df450",
+        "name": "string",
+        "birthDay": "2018-11-12T00:00:00.000Z",
+        "email": "string",
+        "password": "string",
+        "phone": "string",
+        "__v": 0
+      }
+    ],
+    "TokenLogin": {
+      "token": "eyJhbGciOiJIUzI1NiJ9.c3RyaW5n.ove-1XuSHV8MVdDxYKnAvhjGUE93l3u7B1Jq5a53_KU"
+    }
+  }
+}

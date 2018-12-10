@@ -1,0 +1,12 @@
+{
+  "dbConfig": {
+    "HOST": "mongodb://localhost:27017/daki"
+  },
+  "serverConfig": {
+    "PORT": 4000,
+    "HOST": "localhost"
+  },
+  "TokenKey": {
+    "key": "senha-muito-segura-aqui"
+  }
+}
